@@ -81,10 +81,31 @@ the issue tracker. Students should ask questions about their grade for this
 project in GitHub so as to facilitate an effective conversation about the
 submitted deliverables.
 
-## Problems with the Assignment
+## Reporting Problems
 
-If you have any problems with the completion of this assignment, then please
-create an issue in this repository using the "Issues" link at the top of this
-site. Before this assignment is submitted by the due date, all the issues in
-this repository should have been assigned to a team member, discussed, handled,
-marked as resolved, and then closed.
+If you have found a problem with this assignment's provided source code or
+documentation, then you can go to the [Computer Science 203 Spring 2020 Lab
+1](https://github.com/Allegheny-Computer-Science-203-F2020/cs203-F2020-lab1-starter)
+repository and [raise an
+issue](https://github.com/Allegheny-Computer-Science-203-F2020/cs203-F2020-lab1-starter/issues).
+If you have found a problem with the [GatorGrader
+tool](https://github.com/GatorEducator/gatorgrader) and the way that it checks
+your assignment, then you can also [raise an
+issue](https://github.com/GatorEducator/gatorgrader/issues) in that repository.
+To ensure that your issue is properly resolved, please provide as many details
+as is possible about the problem that you experienced. If you discover a problem
+with the assignment sheet for this project, then please raise an issue in the
+GitHub repository that provides the assignment sheets for your course.
+
+Whenever possible, individuals who find, and use the appropriate GitHub issue
+tracker to correctly document a mistake in any aspect of this assignment will
+receive free [GitHub stickers](https://octodex.github.com/) and extra credit
+towards their grade for the project.
+
+## Receiving Assistance
+
+If you are having trouble completing any part of this project, then please talk
+with either the course instructor or a student technical leader during the
+course session. Alternatively, you may ask questions in the Slack workspace for
+this course. Finally, you can schedule a meeting during the course instructor's
+office hours.
