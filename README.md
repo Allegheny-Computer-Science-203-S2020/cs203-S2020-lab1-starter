@@ -1,7 +1,7 @@
-# cs203-S2020-lab1-solution
+# cs203-S2020-lab1-starter
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
-repository contains the solution for Laboratory 1 in Computer Science 203. As
+repository contains the starter for Laboratory 1 in Computer Science 203. As
 part of this assignment, you should answer all of the questions in the
 `report.md` file, furnishing evidence of your contributions to the project.
 Students who have questions about this task should talk with a student technical
